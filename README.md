@@ -1,6 +1,11 @@
 # ChatBot
-##Clonar repo
-###Instalar dependencias
+
+## Clonar repo
+
+### Instalar dependencias
+
 $ npm install
-###Iniciar servicio
+
+### Iniciar servicio
+
 $ npm start
